@@ -1,7 +1,3 @@
-Here is a clean, professional `README.md` tailored specifically for your Discord bot repository. It highlights the tech stack (Python, Groq API), explains the existing commands clearly based on your code, and gives step-by-step instructions for setup.
-
----
-
 # 3D Project Concept Generator Discord Bot
 
 A Python-based Discord bot designed to assist 3D artists, designers, and developers by generating creative prompts and concepts. Leveraging the high-speed **Groq API**, the bot quickly delivers stylized art ideas, city layouts, and architectural building concepts directly into your Discord server.
